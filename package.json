@@ -4,7 +4,7 @@
         "node-addon-api": "^1.1.0"
     },
     "scripts": {
-        "pretest": "tsc",
+        "pretest": "./node_modules/.bin/tsc",
         "test": "node --napi-modules ./test/test_binding.js"
     },
     "gypfile": true,
