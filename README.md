@@ -1,5 +1,5 @@
-# api-experimental
+# napi-experimental
 expriments building node addons with c++
 
-npm i
-npm test
+- `npm i`
+- `npm test`
